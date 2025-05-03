@@ -5,7 +5,7 @@ Berikut adalah hasil proses dari paper yang saya pilih yang berjudul **Analysis 
 Platfrom yang saya gunakan disini adalah Google Colab
 
 ## Langkah Pertama
-Install dan import library terlebih dakulu
+Install dan import library terlebih dahulu
 
 ```python
   !pip install opencv-python-headless
